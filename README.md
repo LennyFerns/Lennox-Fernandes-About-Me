@@ -35,7 +35,7 @@ I’m passionate about leveraging my technical expertise to solve complex proble
     
 -   **LinkedIn:**  [Lennox Fernandes](https://www.linkedin.com/in/lennox-fernandes)
     
--   **Portfolio:**  GitHub Projects
+-   **Portfolio:**  [GitHub Projects](https://github.com/LennyFerns)
     
 
 ----------
